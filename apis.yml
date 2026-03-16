@@ -1,7 +1,20 @@
 aid: federal-bureau-of-prisons
+name: Federal Bureau of Prisons
+description: >-
+  The Federal Bureau of Prisons (BOP) is responsible for the custody and care
+  of federal inmates in the United States.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+access: 3rd-Party
+created: '2024-11-30'
+modified: '2026-03-16'
+position: Consumer
+tags:
+  - Federal Government
+  - Prisons
 url: >-
-
   https://raw.githubusercontent.com/api-evangelist/federal-bureau-of-prisons/refs/heads/main/apis.yml
+specificationVersion: '0.19'
 apis:
   - aid: federal-bureau-of-prisons:federal-bureau-of-prisons
     name: Federal Bureau of Prisons
@@ -10,30 +23,13 @@ apis:
     humanURL: https://www.bop.gov
     properties:
       - url: https://www.bop.gov
-        type: Documentation
+        type: Website
     description: |-
-
-      Introducing a brand new career experience. Designed to improve the
-      experience for those interested in a FBOP career, jobseekers can explore
-      careers, learn about the mission and vision of the agency, find hiring
-      events, and sign up to receive emails about career opportunities.
-name: Federal Bureau of Prisons
-tags:
-  - Federal Government
-  - Prisons
-type: Contract
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
-access: 3rd-Party
-created: '2024-11-30'
-modified: '2024-12-30'
-position: Consuming
-description: |-
-
-  Introducing a brand new career experience. Designed to improve the experience
-  for those interested in a FBOP career, jobseekers can explore careers, learn
-  about the mission and vision of the agency, find hiring events, and sign up to
-  receive emails about career opportunities.
+      The Federal Bureau of Prisons provides inmate locator and facility
+      information resources.
+common:
+  - type: Website
+    url: https://www.bop.gov
 maintainers:
   - FN: Kin Lane
-    email: info@apievangelist.com
-specificationVersion: '0.19'
+    email: kin@apievangelist.com
