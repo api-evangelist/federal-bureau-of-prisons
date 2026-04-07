@@ -18,8 +18,7 @@ specificationVersion: '0.19'
 apis:
   - aid: federal-bureau-of-prisons:federal-bureau-of-prisons
     name: Federal Bureau of Prisons
-    tags:
-      - API
+    tags: []
     humanURL: https://www.bop.gov
     properties:
       - url: https://www.bop.gov
