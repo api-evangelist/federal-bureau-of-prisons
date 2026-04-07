@@ -24,9 +24,9 @@ apis:
     properties:
       - url: https://www.bop.gov
         type: Website
-    description: |-
-      The Federal Bureau of Prisons provides inmate locator and facility
-      information resources.
+    description: >-
+      The Federal Bureau of Prisons provides inmate locator and facility information
+      resources.
 common:
   - type: Website
     url: https://www.bop.gov
