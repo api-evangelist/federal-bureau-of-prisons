@@ -1,51 +1,52 @@
 # Federal Bureau of Prisons (federal-bureau-of-prisons)
 
-Introducing a brand new career experience. Designed to improve the experience
-for those interested in a FBOP career, jobseekers can explore careers, learn
-about the mission and vision of the agency, find hiring events, and sign up to
-receive emails about career opportunities.
+The Federal Bureau of Prisons (BOP) is responsible for the custody and care of federal inmates in the United States. The BOP operates the inmate locator and publishes facility information online but does not currently offer a public, documented developer API.
 
-**URL:** [Visit APIs.json URL](
-https://raw.githubusercontent.com/api-evangelist/federal-bureau-of-prisons/refs/heads/main/apis.yml)
+**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/federal-bureau-of-prisons/refs/heads/main/apis.yml)
 
 ## Scope
 
-- **Type:** Contract 
-- **Position:** Consuming 
-- **Access:** 3rd-Party 
+- **Type:** Index
+- **Position:** Consumer
+- **Access:** 3rd-Party
 
-## Tags:
+## Tags
 
- - Federal Government, Prisons
+- Corrections
+- Federal Government
+- Prisons
 
 ## Timestamps
 
-- **Created:** 2024-11-30 
-- **Modified:** 2024-12-30 
+- **Created:** 2024-11-30
+- **Modified:** 2026-04-28
 
 ## APIs
 
 ### Federal Bureau of Prisons
 
-Introducing a brand new career experience. Designed to improve the
-experience for those interested in a FBOP career, jobseekers can explore
-careers, learn about the mission and vision of the agency, find hiring
-events, and sign up to receive emails about career opportunities.
+The Federal Bureau of Prisons web presence including the inmate locator and facility directory. No public developer API is currently published.
 
-**Human URL:** [https://www.bop.gov](https://www.bop.gov)
+- **Human URL:** https://www.bop.gov
 
+#### Tags
 
-#### Tags:
-
- - API
+- Corrections
+- Prisons
 
 #### Properties
 
-- [Documentation](https://www.bop.gov)
+- [Website](https://www.bop.gov)
+- [Inmate Locator](https://www.bop.gov/inmateloc/)
+- [Facility Locator](https://www.bop.gov/locations/list.jsp)
+
+## Common Properties
+
+- [Website](https://www.bop.gov)
+- [Careers](https://www.bop.gov/jobs/)
 
 ## Maintainers
 
 **FN:** Kin Lane
 
-**Email:** info@apievangelist.com
-
+**Email:** kin@apievangelist.com
