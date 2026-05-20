@@ -36,6 +36,8 @@ apis:
       - type: FacilityLocator
         url: https://www.bop.gov/locations/list.jsp
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/officialfbop
   - type: Website
     url: https://www.bop.gov
   - type: Careers
