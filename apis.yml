@@ -36,6 +36,8 @@ apis:
       - type: FacilityLocator
         url: https://www.bop.gov/locations/list.jsp
 common:
+  - type: DomainSecurity
+    url: security/federal-bureau-of-prisons-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/officialfbop
   - type: Website
