@@ -23,11 +23,6 @@ The Federal Bureau of Prisons (BOP) is responsible for the custody and care of f
 
 ## APIs
 
-### Federal Bureau of Prisons
-
-The Federal Bureau of Prisons web presence including the inmate locator and facility directory. No public developer API is currently published.
-
-- **Human URL:** https://www.bop.gov
 
 #### Tags
 
