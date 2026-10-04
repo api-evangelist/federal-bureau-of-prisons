@@ -36,12 +36,13 @@ modified: '2026-07-25'
 position: Consuming
 tags:
   - Corrections
-  - Federal-Government
+  - Federal Government
   - Prisons
 tags_raw:
   - Corrections
   - Federal Government
   - Prisons
+  - Federal-Government
 url: >-
   https://raw.githubusercontent.com/api-evangelist/federal-bureau-of-prisons/refs/heads/main/apis.yml
 specificationVersion: '0.23'
