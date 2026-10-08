@@ -48,6 +48,12 @@ url: >-
 specificationVersion: '0.23'
 apis: []
 common:
+  - type: Plans
+    url: plans/federal-bureau-of-prisons-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/federal-bureau-of-prisons-rate-limits.yml
+  - type: FinOps
+    url: finops/federal-bureau-of-prisons-finops.yml
   - type: DomainSecurity
     url: security/federal-bureau-of-prisons-domain-security.yml
   - type: LinkedIn
